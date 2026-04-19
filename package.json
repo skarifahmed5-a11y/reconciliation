@@ -1,0 +1,11 @@
+{
+  "name": "reconciliation-ai",
+  "version": "1.0.0",
+  "description": "Agentic AI Accounts Reconciliation Platform",
+  "scripts": {
+    "dev": "python -m http.server 5173 --directory dashboard",
+    "start": "python -m http.server 8080 --directory dashboard"
+  },
+  "keywords": ["AI", "agents", "reconciliation", "finance", "accounting", "anthropic"],
+  "license": "MIT"
+}
